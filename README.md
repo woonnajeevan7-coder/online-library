@@ -39,7 +39,7 @@ A full-featured online library application built with **React + Vite + Redux Too
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/online-library.git
+git clone https://github.com/woonnajeevan7-coder/online-library.git
 
 # 2. Navigate into the project folder
 cd online-library
@@ -190,3 +190,15 @@ online-library/
 ## 📄 License
 
 MIT — free to use, modify, and distribute.
+
+---
+
+## 👨‍🎓 Student Information
+
+Name: Jeevan  
+Course: B.Tech  
+Subject: React JS  
+Assignment: React Assignment 2 – Online Library System  
+
+GitHub Repository:
+https://github.com/woonnajeevan7-coder/online-library
